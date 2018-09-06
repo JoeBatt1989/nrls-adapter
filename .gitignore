@@ -1,1 +1,5 @@
 /nrls-adapter/target/
+nrls-adapter-C-automation/NRLSAdapterAutomation/obj/
+nrls-adapter-C-automation/packages/
+nrls-adapter-C-automation/NRLSAdapterAutomation/bin/
+nrls-adapter-C-automation/.vs/NRLSAdapterAutomation/v15/
